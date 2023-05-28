@@ -7,7 +7,7 @@ const char* ssid = "<WIFI SSID>";
 const char* pass = "<WIFI PASSWORD>";
 
 const char* TOKEN = "<TOKEN BOT>";
-const int CHAT_ID = <TELEGRAM CHAT ID>;
+const int CHAT_ID = "<TELEGRAM CHAT ID>";
 
 WiFiClient client;
 HTTPClient httpClient;
